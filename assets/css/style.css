@@ -48,6 +48,11 @@ p {
 .pad-bottom {
     padding-bottom: 60px;
 }
+
+.img-border {
+    border: 1px solid #999;
+    border-radius: 8px;
+}
 /*================================
     NAVBAR STYLES
 ==================================*/
@@ -58,6 +63,7 @@ p {
 }
 
     .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover {
+        border-right: 1px solid #6b9;
         color: #fff;
     }
 
