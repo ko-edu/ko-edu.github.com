@@ -37,6 +37,9 @@ section {
 
 p {
     font-size: 20px;
+}
+
+p.descript {
     text-align: justify;
 }
 
@@ -50,6 +53,7 @@ p {
 }
 
 .img-border {
+    width: 100%;
     border: 1px solid #999;
     border-radius: 8px;
 }
