@@ -31,8 +31,7 @@ h1 {
 }
 
 section {
-    padding-top: 60px;
-    padding-bottom: 120px;
+    padding-bottom: 40px;
 }
 
 p {
@@ -46,10 +45,6 @@ p.descript {
 .head-set {
     padding-top: 20px;
     padding-bottom: 0px;
-}
-
-.pad-bottom {
-    padding-bottom: 60px;
 }
 
 .img-border {
