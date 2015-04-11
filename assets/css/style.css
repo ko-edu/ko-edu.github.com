@@ -23,7 +23,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto); /* GOOGLE FREE FONTS */
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: NanumGothic, 나눔고딕, "Malgun Gothic", "맑은 고딕", serif, sans-serif;
 }
 
 h1 {
@@ -98,11 +98,9 @@ p.descript {
         padding-top: 80px;
         font-weight: 700;
         font-size: 70px;
-        font-family: 'Browallia New';
     }
     #home h2 {
         font-size: 40px;
-        font-family: 'Browallia New';
     }
 /*SMPLE CLASS TO ADJUST SECTION PADDING & HEIGHT*/
 
