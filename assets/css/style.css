@@ -30,6 +30,10 @@ h1 {
     font-size: 20px;
 }
 
+h5 {
+    font-size: 23px;
+}
+
 section {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -41,6 +45,10 @@ p {
 
 p.descript {
     text-align: justify;
+}
+
+p.ref-source {
+    font-size: 16px;
 }
 
 .head-set {
