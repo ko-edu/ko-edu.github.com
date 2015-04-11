@@ -198,3 +198,9 @@ footer {
         color: #fff;
         text-decoration: none;
     }
+
+@media (min-width: 1200px) {
+    .container {
+        width: 970px; 
+    }
+}
