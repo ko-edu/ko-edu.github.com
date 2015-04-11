@@ -209,6 +209,9 @@ footer {
     .container {
         width: 970px; 
     }
+    .img-border {
+        max-width: 480px;
+    }
     .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
         min-height: 215px;
     }
